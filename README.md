@@ -28,7 +28,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaehyuun&show_icons=true&theme=great-gatsby)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdaehyuun&langs_count=10&layout=compact&theme=dark)](https://github.com/kimdaehyuun/kimdaehyuun)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={kimdh7776})](https://solved.ac/{handle})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={kimdh7776})](https://solved.ac/{kimdh7776})
 
 
 <!--
