@@ -1,6 +1,9 @@
 ### Hi there 👋
 ###### 꿈꾸는 개발자 김대현입니다
 
+## [김대현의 경력기술서 👈🏻](https://discreet-question-1a6.notion.site/398e73dfaf8a418ab21d35b4b198513c) 
+
+
 <hr>
 
 #### Development_Skills 👇🏻
