@@ -22,15 +22,11 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a> 
 
 
-##### OTHER
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
-
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaehyuun&show_icons=true&theme=great-gatsby)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdaehyuun&langs_count=10&layout=compact&theme=dark)](https://github.com/kimdaehyuun/kimdaehyuun)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kimdh7776)](https://solved.ac/kimdh7776)
 
 
 <!--
