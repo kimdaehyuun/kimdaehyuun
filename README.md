@@ -1,10 +1,6 @@
 <div align=center>
 
-### Hi there 👋
-###### 꿈꾸는 개발자 김대현입니다
-
-## [김대현의 경력기술서 👈🏻](https://clever-shamrock-e3e.notion.site/999359e00b1e401bad3437937c61bcec) 
-
+##### 꿈꾸는 개발자 김대현입니다
 
 <hr>
 
@@ -28,5 +24,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaehyuun&show_icons=true&theme=great-gatsby)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdaehyuun&langs_count=10&layout=compact&theme=dark)](https://github.com/kimdaehyuun/kimdaehyuun)
+
+##### [김대현의 경력기술서](https://clever-shamrock-e3e.notion.site/999359e00b1e401bad3437937c61bcec) 
 
 </div>
