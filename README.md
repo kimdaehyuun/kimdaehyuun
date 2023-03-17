@@ -36,4 +36,8 @@
 
 ##### [김대현의 경력기술서](https://clever-shamrock-e3e.notion.site/999359e00b1e401bad3437937c61bcec) 
 
+<hr>
+#### SIDE PROJECT
+https://github.com/K-Saaan/brokurly_admin
+
 </div>
