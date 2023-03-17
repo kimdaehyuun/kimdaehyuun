@@ -2,8 +2,6 @@
 
 ##### 1년차 개발자 김대현입니다
 
-<hr>
-
 #### Development_Skills 👇🏻
 
 ##### BACK-END
