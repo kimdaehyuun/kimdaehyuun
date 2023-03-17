@@ -10,8 +10,12 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-34E27A?style=flat&logo=JPA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mybatis-1F4056?style=flat&logo=Mybatis&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Apache Nifi-D22128?style=flat&logo=Apache&logoColor=white"/>
 
 ##### FRONT-END
@@ -35,9 +39,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdaehyuun&langs_count=10&layout=compact&theme=dark)](https://github.com/kimdaehyuun/kimdaehyuun)
 
 ##### [김대현의 경력기술서](https://clever-shamrock-e3e.notion.site/999359e00b1e401bad3437937c61bcec) 
-
-<hr>
-#### SIDE PROJECT
-https://github.com/K-Saaan/brokurly_admin
 
 </div>
