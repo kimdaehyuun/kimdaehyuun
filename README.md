@@ -1,6 +1,6 @@
 <div align=center>
 
-##### 꿈꾸는 개발자 김대현입니다
+##### 1년차 개발자 김대현입니다
 
 <hr>
 
@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-34E27A?style=flat&logo=JPA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mybatis-1F4056?style=flat&logo=Mybatis&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Apache Nifi-D22128?style=flat&logo=Apache&logoColor=white"/>
