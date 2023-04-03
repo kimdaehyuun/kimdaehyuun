@@ -32,6 +32,12 @@
 ##### 협업툴
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a> 
 
+##### Study-ing
+<img src="https://img.shields.io/badge/Beats-005571?style=flat&logo=Beats&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white"/></a>
+
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaehyuun&show_icons=true&theme=great-gatsby)
