@@ -1,6 +1,6 @@
 <div align=center>
 
-##### 1년차 개발자 김대현입니다
+##### 2년차 개발자 김대현입니다
 
 #### Development_Skills 👇🏻
 
@@ -10,13 +10,17 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shell-FFD500?style=flat&logo=Shell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
+<br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-34E27A?style=flat&logo=JPA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mybatis-1F4056?style=flat&logo=Mybatis&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Apache Nifi-D22128?style=flat&logo=Apache&logoColor=white"/>
+
 
 ##### FRONT-END
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a> 
@@ -33,12 +37,12 @@
 ##### 협업툴
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a> 
 
-##### Study-ing
-<img src="https://img.shields.io/badge/Beats-005571?style=flat&logo=Beats&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white"/></a>
+##### ETC
+<img src="https://img.shields.io/badge/Apache Nifi-D22128?style=flat&logo=Apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Beats-005571?style=flat&logo=Beats&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
 
 <hr>
 
