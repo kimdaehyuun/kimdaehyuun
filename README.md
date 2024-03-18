@@ -46,8 +46,8 @@
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaehyuun&show_icons=true&theme=great-gatsby)
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdaehyuun&langs_count=10&layout=compact&theme=dark)](https://github.com/kimdaehyuun/kimdaehyuun)
 
 </div>
